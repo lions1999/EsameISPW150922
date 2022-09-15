@@ -7,14 +7,14 @@ public class Multiple {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         switch (a%2){
-            default:
-                System.out.println(a);
-                break;
             case 1:
                 System.out.println(a+" is non a multiple of 2");
                 break;
             case 0:
                 System.out.println(a+" is a multiple of 2");
+                break;
+            default:
+                System.out.println(a);
                 break;
         }
         System.out.println(a);
