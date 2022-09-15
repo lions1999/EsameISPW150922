@@ -26,13 +26,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Multiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multiple" />
+      <option name="MAIN_CLASS_NAME" value="main.Multiple" />
       <module name="multiplo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663246159753</updated>
       <workItem from="1663246160883" duration="495000" />
+      <workItem from="1663247237815" duration="12000" />
     </task>
     <servers />
   </component>
